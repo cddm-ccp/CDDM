@@ -1,3 +1,7 @@
+Status: Submitted manuscript
+Journal: Medical Hypotheses
+Submission ID: YMEHY-D-26-00713
+
 # Constraint-Driven Divergence Model (CDDM)
 
 A conceptual framework for severe depression and recursive cognitive-emotional dynamics.
